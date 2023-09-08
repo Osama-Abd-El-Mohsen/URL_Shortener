@@ -11,3 +11,4 @@ A URL shortener script that converts long URLs into short, easy-to-share links u
 
 
 ## Installation
+https://github.com/Osama-Abd-El-Mohsen/URL_Shortener/releases/tag/V1.1
