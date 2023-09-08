@@ -1,0 +1,8 @@
+/build
+/__pycache__
+/dist
+*iss
+URL_Shortener_V1.0_setup.exe
+URL_Shortener.spec
+
+
